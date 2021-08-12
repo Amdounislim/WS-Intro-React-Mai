@@ -4,7 +4,7 @@ function Header() {
 
     return(
         <header>
-            <h1>Hello</h1>
+            <h1 className="title">Hello</h1>
             <p>I'm {name}</p>
         </header>
     );
